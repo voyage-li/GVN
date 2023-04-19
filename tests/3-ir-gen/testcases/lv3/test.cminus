@@ -1,0 +1,11 @@
+void main(void)
+{
+    int r[2801];
+    int mod;
+    mod = 0;
+    while (mod < 2800)
+    {
+        r[mod] = 2000;
+        mod = mod + 1;
+    }
+}
